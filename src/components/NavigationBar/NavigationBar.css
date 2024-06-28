@@ -1,0 +1,19 @@
+.navigation-bar {
+    margin-top: 3rem;
+    margin-inline: 7rem;
+}
+
+.navigation-bar ul {
+    display: flex;
+    list-style: none;
+}
+
+.navigation-bar ul li {
+    margin-right: 15px;
+}
+
+.navigation-bar ul li button {
+    padding: 8px;
+    border: 1px solid rgb(209, 208, 208);
+    border-radius: 10px;
+}

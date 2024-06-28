@@ -1,0 +1,15 @@
+.about-me-container {
+    display: flex;
+    max-width: 100%;
+    padding-top: 3rem;
+    padding-inline: 3rem;
+}
+
+.about-me-container .photo-container {
+    margin-right: 50px;
+}
+
+.about-me-container .photo-container .photo {
+    width: 100px;
+    border-radius: 50%;
+}

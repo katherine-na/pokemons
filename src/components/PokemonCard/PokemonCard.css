@@ -1,0 +1,11 @@
+.card {
+    max-width: 70%;
+    border: 1px solid rgb(205, 203, 203);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.card .card-body .card-title {
+    text-transform: capitalize;
+}
